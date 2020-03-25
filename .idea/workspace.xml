@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40a726e4-614c-4a31-afed-d6c0f0718869" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Zb9oBiyyjqMKS8hVdx6sGzOjXl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40a726e4-614c-4a31-afed-d6c0f0718869" name="Default Changelist" comment="" />
+      <created>1585097098100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585097098100</updated>
+      <workItem from="1585097099311" duration="8431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1153" y="-828" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585143208467">
+      <screen x="673" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1153" y="-828" key="#com.intellij.ide.macro.MacrosDialog/673.-1080.1920.1080/-1247.-1080.1920.1080/0.0.1680.1050@673.-1080.1920.1080" timestamp="1585143208467" />
+    <state x="984" y="-755" key="EditFileWatcherDialog" timestamp="1585143213209">
+      <screen x="673" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="984" y="-755" key="EditFileWatcherDialog/673.-1080.1920.1080/-1247.-1080.1920.1080/0.0.1680.1050@673.-1080.1920.1080" timestamp="1585143213209" />
+    <state x="1420" y="-778" key="FileChooserDialogImpl" timestamp="1585098559181">
+      <screen x="673" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1420" y="-778" key="FileChooserDialogImpl/673.-1080.1920.1080/-1247.-1080.1920.1080/0.0.1680.1050@673.-1080.1920.1080" timestamp="1585098559181" />
+    <state x="1442" y="-717" key="NewPhpClassDialog" timestamp="1585098761669">
+      <screen x="673" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1442" y="-717" key="NewPhpClassDialog/673.-1080.1920.1080/-1247.-1080.1920.1080/0.0.1680.1050@673.-1080.1920.1080" timestamp="1585098761669" />
+    <state x="1451" y="-610" key="NewPhpFileDialog" timestamp="1585146123870">
+      <screen x="673" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1451" y="-610" key="NewPhpFileDialog/673.-1080.1920.1080/-1247.-1080.1920.1080/0.0.1680.1050@673.-1080.1920.1080" timestamp="1585146123870" />
+    <state x="1134" y="-901" key="SettingsEditor" timestamp="1585143214836">
+      <screen x="673" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1134" y="-901" key="SettingsEditor/673.-1080.1920.1080/-1247.-1080.1920.1080/0.0.1680.1050@673.-1080.1920.1080" timestamp="1585143214836" />
+    <state x="1290" y="-783" width="683" height="486" key="find.popup" timestamp="1585147800079">
+      <screen x="673" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1290" y="-783" width="683" height="486" key="find.popup/673.-1080.1920.1080/-1247.-1080.1920.1080/0.0.1680.1050@673.-1080.1920.1080" timestamp="1585147800079" />
+    <state x="1395" y="-912" key="refactoring.ChangeSignatureDialog" timestamp="1585098067361">
+      <screen x="673" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1395" y="-912" key="refactoring.ChangeSignatureDialog/673.-1080.1920.1080/-1247.-1080.1920.1080/0.0.1680.1050@673.-1080.1920.1080" timestamp="1585098067361" />
+  </component>
+</project>

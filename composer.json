@@ -1,0 +1,16 @@
+{
+    "name": "leoleoasd/webauthn_demo",
+    "require": {
+        "illuminate/database": "^7.3",
+        "web-auth/webauthn-lib": "^3.1",
+        "nyholm/psr7-server": "^0.4.1",
+        "nyholm/psr7": "^1.2",
+        "ext-gmp": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Leo Lu",
+            "email": "luyuxuanleo@gmail.com"
+        }
+    ]
+}
